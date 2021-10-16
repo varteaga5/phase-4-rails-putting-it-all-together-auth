@@ -94,6 +94,7 @@ function SignUpForm({ onLogin }) {
           <Error key={err}>{err}</Error>
         ))}
       </FormField>
+      f
     </form>
   );
 }
